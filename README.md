@@ -1,50 +1,45 @@
 <div align="center">
 
-  <!-- Banner do Topo -->
+  <!-- Banner do Topo sem espaçadores extras -->
   <img src="./banner.jpg" alt="Nagumo Banner" width="100%">
 
-  <br/><br/>
+  <h1>Olá 👋, eu sou VH</h1>
 
-  <h1>Hi 👋, I'm VH</h1>
+  <h3>Desenvolvedor Full Stack Júnior & Autodidact</h3>
 
-  <h3>Junior Full Stack Developer & Autodidact</h3>
+  <p><i>"Adaptability is the ultimate weapon."</i></p>
 
-  <p>
-    <i>"Adaptability is the ultimate weapon."</i>
-  </p>
-  
-  <p>
-    Construindo aplicações modernas com foco em backend, APIs eficientes e arquitetura limpa.
-  </p>
+  <p>Construindo aplicações modernas com foco em backend, APIs eficientes e arquitetura limpa.</p>
 
 </div>
 
 ---
 
-## 🃏 About Me
+## 🃏 Sobre mim
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
       <br/>
       <blockquote><b>"Às vezes, a melhor solução é a que ninguém vê chegando."</b></blockquote>
       <br/>
+      <p>Desenvolvedor focado na construção de sistemas eficientes, APIs escaláveis e interfaces funcionais. Movido por curiosidade e aprendizado contínuo, aplico uma abordagem analítica para resolver problemas e transformar requisitos em código limpo.</p>
       <ul>
-        <li><b>Perfil:</b> Desenvolvedor Júnior autodidata. Não espero respostas prontas: quando surge um problema ou tecnologia desconhecida, vou atrás até dominar.</li>
-        <li><b>Foco:</b> Ecossistema Full Stack, projetando soluções com <b>Python</b>, APIs com <b>FastAPI</b> e criando interfaces responsivas no Frontend.</li>
-        <li><b>Filosofia:</b> Aprender na prática, testar limites e evoluir a cada commit.</li>
+        <li>🎯 <b>Foco Atual:</b> Arquitetura de APIs RESTful, microsserviços e integração Full Stack.</li>
+        <li>💻 <b>Stack Principal:</b> Python (FastAPI), JavaScript (Node/Frontend) e bancos de dados.</li>
+        <li>🧠 <b>Perfil:</b> Autodidata e analítico. Quando surge um desafio desconhecido, pesquiso e testo até dominar a solução.</li>
+        <li>⚡ <b>Filosofia:</b> Código limpo, execução precisa e evolução constante a cada commit.</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Imagem Lateral -->
-      <img src="./nagumo.jpg" alt="Nagumo" width="100%">
+    <td width="40%" align="center" valign="middle">
+      <img src="./nagumo.jpg" alt="Nagumo" width="260">
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Arsenal de Tecnologia
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -58,7 +53,7 @@
 
 ---
 
-## 📬 Connect With Me
+## 📬 Conecte-se comigo
 
 <div align="center">
   <a href="mailto:victorhugosantossantana313@gmail.com">
