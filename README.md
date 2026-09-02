@@ -1,6 +1,11 @@
 <div align="center">
 
-  <h1>Olá 👋, eu sou o VH</h1>
+  <!-- Banner do Topo -->
+  <img src="./banner.jpg" alt="Nagumo Banner" width="100%">
+
+  <br/><br/>
+
+  <h1>Hi 👋, I'm VH</h1>
 
   <h3>Junior Full Stack Developer & Autodidact</h3>
 
@@ -18,11 +23,24 @@
 
 ## 🃏 About Me
 
-> **"Às vezes, a melhor solução é a que ninguém vê chegando."**
-
-* **Perfil:** Desenvolvedor Júnior autodidata. Não espero respostas prontas: quando surge um problema ou tecnologia desconhecida, vou atrás até dominar.
-* **Foco:** Ecossistema Full Stack, projetando soluções com **Python**, APIs com **FastAPI** e criando interfaces responsivas no Frontend.
-* **Filosofia:** Aprender na prática, testar limites e evoluir a cada commit.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <br/>
+      <blockquote><b>"Às vezes, a melhor solução é a que ninguém vê chegando."</b></blockquote>
+      <br/>
+      <ul>
+        <li><b>Perfil:</b> Desenvolvedor Júnior autodidata. Não espero respostas prontas: quando surge um problema ou tecnologia desconhecida, vou atrás até dominar.</li>
+        <li><b>Foco:</b> Ecossistema Full Stack, projetando soluções com <b>Python</b>, APIs com <b>FastAPI</b> e criando interfaces responsivas no Frontend.</li>
+        <li><b>Filosofia:</b> Aprender na prática, testar limites e evoluir a cada commit.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- Imagem Lateral -->
+      <img src="./nagumo.jpg" alt="Nagumo" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
