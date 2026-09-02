@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi 👋, Olá, eu sou o VH</h1>
+  <h1>Olá 👋, eu sou o VH</h1>
 
   <h3>Junior Full Stack Developer & Autodidact</h3>
 
@@ -37,21 +37,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true" alt="VH Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_AQUI&theme=github-dark&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
 
 ---
 
