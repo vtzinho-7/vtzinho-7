@@ -3,7 +3,7 @@
   <!-- Banner do Topo sem espaçadores extras -->
   <img src="./banner.jpg" alt="Nagumo Banner" width="100%">
 
-  <h1>Olá 👋, eu sou VH</h1>
+  <h1>Olá 👋, eu sou o VH</h1>
 
   <h3>Desenvolvedor Full Stack Júnior & Autodidact</h3>
 
