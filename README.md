@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner do Topo Pontilhado -->
-  <img src="./banner.png" alt="Nagumo Banner" width="100%">
+  <!-- Banner do Topo com tamanho reduzido -->
+  <img src="./banner.png" alt="Nagumo Banner" width="85%">
 
   <h1>Olá 👋, eu sou VH</h1>
 
@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <br/>
       <blockquote><b>"Às vezes, a melhor solução é a que ninguém vê chegando."</b></blockquote>
       <br/>
@@ -27,13 +27,13 @@
       <ul>
         <li>🎯 <b>Foco Atual:</b> Arquitetura de APIs RESTful, microsserviços e integração Full Stack.</li>
         <li>💻 <b>Stack Principal:</b> Python (FastAPI), JavaScript (Node/Frontend) e bancos de dados.</li>
-        <li>🧠 <b>Perfil:</b> Autodidata e analítico. Quando surge um desafio desconhecido, pesquiso e testo até dominar a solução.</li>
+        <li>🧠 <b>Perfil:</b> Autodidata e analítico. Quando surge um desafio desconhecido, pesquise e testo até dominar a solução.</li>
         <li>⚡ <b>Filosofia:</b> Código limpo, execução precisa e evolução constante a cada commit.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Imagem Lateral Pontilhada -->
-      <img src="./nagumo.png" alt="Nagumo" width="260">
+    <td width="45%" align="center" valign="middle">
+      <!-- Imagem Lateral Expandida para Preencher a Coluna -->
+      <img src="./nagumo.png" alt="Nagumo" width="320">
     </td>
   </tr>
 </table>
