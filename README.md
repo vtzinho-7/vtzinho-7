@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Banner do Topo sem espaçadores extras -->
-  <img src="./banner.jpg" alt="Nagumo Banner" width="100%">
+  <!-- Banner do Topo Pontilhado -->
+  <img src="./banner.png" alt="Nagumo Banner" width="100%">
 
-  <h1>Olá 👋, eu sou o VH</h1>
+  <h1>Olá 👋, eu sou VH</h1>
 
   <h3>Desenvolvedor Full Stack Júnior & Autodidact</h3>
 
@@ -32,7 +32,8 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="./nagumo.jpg" alt="Nagumo" width="260">
+      <!-- Imagem Lateral Pontilhada -->
+      <img src="./nagumo.png" alt="Nagumo" width="260">
     </td>
   </tr>
 </table>
